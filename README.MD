@@ -79,18 +79,14 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/jamal-al-boukai-10485a367/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/jamal-al-boukai-10485a367/)
+
 
 ---
 
 ## ⚡ Fun Fact
 
 💡 I love turning ideas into real-world applications 🚀
-
-
-
-
-
 
 
 
