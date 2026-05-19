@@ -34,6 +34,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge\&logo=mysql)
 ![Mongo DB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongo)
+
 ---
 
 ## 🚀 Projects
@@ -56,6 +57,14 @@
 
 🔹 Extracts data using Regex, NLP & AI
 🔹 Supports structured and unstructured text
+
+---
+
+### 🏪 TechTalks Services Marketplace
+
+🔹 Smart marketplace connecting users with service providers
+🔹 Intelligent recommendations based on needs, budget, and availability
+🔹 [View Repository](https://github.com/Jamal-Alboukai/techtalks-services-marketplace)
 
 ---
 
@@ -87,7 +96,3 @@
 ## ⚡ Fun Fact
 
 💡 I love turning ideas into real-world applications 🚀
-
-
-
-
