@@ -33,7 +33,7 @@
 ### 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge\&logo=mysql)
-
+![Mongo DB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongo)
 ---
 
 ## 🚀 Projects
