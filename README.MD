@@ -39,6 +39,14 @@
 
 ## 🚀 Projects
 
+### 🏪 TechTalks Services Marketplace
+
+🔹 Smart marketplace connecting users with service providers
+🔹 Intelligent recommendations based on needs, budget, and availability
+🔹 [View Repository](https://github.com/Jamal-Alboukai/techtalks-services-marketplace)
+
+---
+
 ### 🏨 Hotel Booking System
 
 🔹 Full-stack web app with authentication & booking system
@@ -60,13 +68,7 @@
 
 ---
 
-### 🏪 TechTalks Services Marketplace
 
-🔹 Smart marketplace connecting users with service providers
-🔹 Intelligent recommendations based on needs, budget, and availability
-🔹 [View Repository](https://github.com/Jamal-Alboukai/techtalks-services-marketplace)
-
----
 
 ## 📊 GitHub Stats
 
